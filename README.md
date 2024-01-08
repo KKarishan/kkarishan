@@ -6,7 +6,7 @@
   - [Smart Irrigation](https://github.com/KKarishan/smart_irrigation_system)
 - <b>Biometric (Fingerprint) based ATM machines</b>
   - [ATM](https://github.com/KKarishan/biometrics_fingerprint_ATM)
-- <b>Python</b>
+- <b>Python Automations</b>
   - [ytDownloader](https://github.com/KKarishan/ytDownloader)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
