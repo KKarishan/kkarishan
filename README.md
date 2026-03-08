@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm a security-focused developer dedicated to automating the mundane and hunting the sophisticated. Currently spending my time building automated defense pipelines and exploring adversary emulation.
 
 - 🔭 I’m currently working on **Advanced SOC Playbooks**
@@ -22,10 +22,9 @@ I'm a security-focused developer dedicated to automating the mundane and hunting
 
 ## 👨‍💻 Key Cybersecurity Projects
 
-### [SOC Automation Project](URL)
-> Developed an end-to-end automation pipeline that ingests alerts, enriches data via OSINT tools, and triggers containment actions.
-- **Impact:** Reduced manual triage time by 50%.
-- **Tools:** Python, API Integration, Docker.
+### 🚀 [APT Lateral Movement Lab](https://github.com/KKarishan/apt-lateral-movement-lab)
+> A hands-on laboratory environment for simulating and detecting Advanced Persistent Threat (APT) behaviors within a Windows Domain environment.
+- **Goal:** Identify blind spots in default Windows logging and implement advanced telemetry (Sysmon).
+- **Techniques Simualted:** Pass-the-Hash, SMB Relay, and RDP Hijacking.
+- **Defensive Stack:** Splunk, Windows Event Forwarding (WEF), and Snort.
 
-### [Automated Vector Identification (Caldera)](URL)
-> Leveraged MITRE Caldera to simulate TTPs and validate detection coverage across Windows and Linux endpoints.
