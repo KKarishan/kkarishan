@@ -1,29 +1,31 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Keshon! <br/><a href="https://github.com/KKarishan">Programmer</a>, <a href="https://www.linkedin.com/in/keshonkarishan/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/keshonkarishan/">IT Support Engineer</a></h1>
+# Hi I'm Keshon! 👋 
+### Programmer | Cybersecurity Professional | SOC Analyst
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+---
 
-- <b>SOC Automation Project</b>
-  - [Automation](URL)
-- <b>Automated Vector Identification with Caldera for Ethical Hacking Project</b>
-  - [Vector](URL)
+## 🚀 About Me
+I'm a security-focused developer dedicated to automating the mundane and hunting the sophisticated. Currently spending my time building automated defense pipelines and exploring adversary emulation.
 
-<h2> 🤳 Connect with me:</h2>
+- 🔭 I’m currently working on **Advanced SOC Playbooks**
+- 🌱 I’m currently learning **Cloud Security Architecture**
+- 💬 Ask me about **Automation, SIEM, or Malware Analysis**
 
-[<img align="left" alt="Keshon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://linkedin.com/in/keshonkarishan
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Key Cybersecurity Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [SOC Automation Project](URL)
+> Developed an end-to-end automation pipeline that ingests alerts, enriches data via OSINT tools, and triggers containment actions.
+- **Impact:** Reduced manual triage time by 50%.
+- **Tools:** Python, API Integration, Docker.
+
+### [Automated Vector Identification (Caldera)](URL)
+> Leveraged MITRE Caldera to simulate TTPs and validate detection coverage across Windows and Linux endpoints.
