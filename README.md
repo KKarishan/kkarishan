@@ -22,6 +22,12 @@ I'm a security-focused developer dedicated to automating the mundane and hunting
 
 ## 👨‍💻 Key Cybersecurity Projects
 
+### 🤖 [Wazuh-Telegram Integration](https://github.com/KKarishan/wazuh-telegram-integration)
+> Bridge the gap between detection and response by routing Wazuh Manager alerts to mobile devices via the Telegram Bot API.
+- **Problem Solved:** Reduces the delay in seeing critical security events when away from the SIEM console.
+- **Key Features:** Customizable alert levels (e.g., only Level 7+), JSON parsing, and asynchronous message delivery.
+- **Tools:** Python, Wazuh Framework, Telegram API.
+
 ### 🚀 [APT Lateral Movement Lab](https://github.com/KKarishan/apt-lateral-movement-lab)
 > A hands-on laboratory environment for simulating and detecting Advanced Persistent Threat (APT) behaviors within a Windows Domain environment.
 - **Goal:** Identify blind spots in default Windows logging and implement advanced telemetry (Sysmon).
