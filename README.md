@@ -26,6 +26,23 @@ I'm a security-focused developer dedicated to automating the mundane and hunting
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7ab2aaf3-2d11-499d-a71e-18da4efdb3c3" /> Key Cybersecurity Projects
 
+### 🛡️ [Malware Triage Framework](https://github.com/KKarishan/malware-triage-project)
+
+> Automates the analysis of malware samples for both Windows and Linux targets, providing rapid identification of families, binary characteristics, and potential C2 infrastructure without executing the malware.
+
+- **Problem Solved:** Reduces manual effort in malware triage, enabling faster and safer identification of threats across multiple platforms.
+
+- **Key Features:**
+  - Automatic folder watcher for new samples
+  - YARA-based family detection
+  - PE and ELF parsing with architecture, entropy, and packing analysis
+  - XOR-based Mirai C2 extraction with scoring
+  - Generic fallback extractor for unknown malware
+  - Professional JSON reports and clean terminal output
+
+- **Tools & Tech:** Python, YARA, pefile, watchdog, XOR decoding, JSON reporting
+
+
 ### 🤖 [Wazuh-Telegram Integration](https://github.com/KKarishan/wazuh-telegram-integration)
 
 > Bridge the gap between detection and response by routing Wazuh Manager alerts to mobile devices via the Telegram Bot API.
